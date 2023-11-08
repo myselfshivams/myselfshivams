@@ -152,7 +152,7 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
 
 <div align="center">
     <h3><b>Operating Systems</b></h3>
-    <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg?style=white" alt="MacOS" width="40" height="40"/> </a></code>&nbsp;
     <code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></code>&nbsp;
