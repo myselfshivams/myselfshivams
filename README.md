@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.linkedin.com/in/itshivam/">「 Connect with me 」</a>
     <br>
-    「 I am a App Developer full stack web application Developer 」
+    「 I am a App Developer & full stack Web Developer 」
     <br>
     
   </samp>
