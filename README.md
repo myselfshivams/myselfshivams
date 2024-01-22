@@ -9,7 +9,7 @@
 
   <div>
     <div align="center">
-        <a href="https://github.com/myselshivams"><img src="myselfshivams.png" height="500" /></a>
+        <a href="https://github.com/myselshivams"><img src="myselfshivams.png" height="400" /></a>
     </div>
 
     
