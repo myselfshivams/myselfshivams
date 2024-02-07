@@ -65,7 +65,7 @@ In the realm of web development, I have honed my skills in HTML, CSS, and framew
 
 Eager to contribute to the ever-evolving landscape of computer science, I am open to exciting opportunities that allow me to collaborate with talented teams, tackle challenging projects, and further enhance my technical expertise.
 
-
+<hr>
 <!-- Skill Set  -->
 <div align="center">
     <h1>Skill Set ⚡️</h1>
