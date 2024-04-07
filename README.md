@@ -21,7 +21,9 @@
 
 
 
-<!-- Intro  -->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Intro -------------------------------------------------------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/itshivam/">Shivam</a></b>
@@ -213,13 +215,20 @@ About Me = {
 </a>
 <hr>
 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--- Shivam's Activity Graph ----------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-![Shivam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=myselfshivams&custom_title=%20Shivam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 <br>
-
-<div align="center">
-<p align="center">
 <hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=myselfshivams&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
 <div align="center"><h3><b>GitHub Stats</b></h3></div>
 <div align="center">
 
@@ -230,5 +239,11 @@ About Me = {
 <div align="right">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myselfshivams&theme=darkhub&column=7&margin-w=10&margin-h=10&title=Commit,Issues,Repositories,PullRequest,Followers" alt="myselfshivams" /></a> </p>
 <hr>
+
+
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--- Shivam's Snake Animation Contribution Graph ----------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
  
 
