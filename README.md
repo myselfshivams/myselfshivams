@@ -1,10 +1,6 @@
-<!-- Visitor Count  -->
-<a href="https://komarev.com/ghpvc/?username=myselfshivams">
-  <img align="right" src="https://komarev.com/ghpvc/?username=myselfshivams&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-<!-- Shivam's Icon  -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Shivam's Icon ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
   <div>
@@ -12,12 +8,16 @@
         <a href="https://github.com/myselshivams"><img src="myselfshivams.png" height="400" /></a>
     </div>
 
+
+
     
 
 <!-- Readme-Typing  -->
   <div align="center">
         <a href="https://github.com/myselfshivams"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
     </div>
+
+
 
 
 
@@ -42,16 +42,15 @@
 
 <div>
 
-  <h3 align="center">Passionate Learner and Programming Enthusiast</h3>
+  <h3 align="center">Relentless debugger 🔧📖 Perpetual evolver, questing for pixel-perfect perfection!📚 💻</h3>
   <hr>
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/itshivam/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="38" height="35" style="margin-right: 10px;" /></a>&nbsp;
-<a href="https://twitter.com/"><img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" width="35" height="35" style="margin-right: 10px;" /></a>&nbsp;
-<a href="mailto:30shivam09@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>&nbsp;
-<a href="https://t.me/shivam30s"><img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" width="35" height="35" style="margin-right: 10px;" /></a>&nbsp;
-<a href="https://instagram.com/its_shivam.pvt"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="35" height="35" style="margin-right: 10px;" /></a>
 
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Visitor Badge + Links ------------------------------------------------------------------------------------------------------------------------------>
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmyselfshivams%2Fmyselfshiavms&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
 <hr>
 
 <div align="centre">
