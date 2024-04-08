@@ -80,7 +80,7 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
 </div>
 
 
-<!-- Skill Set (Programming Languages)  -->
+<!-- Skill Set  (Programming Languages)  -->
 <div align="center">
     <h3><b>Programming Languages</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="HTML5" alt="html5" height="40"/></a></code>&nbsp;
