@@ -69,11 +69,11 @@
 <div align="centre">
 
 
-Passionate about the vast realm of computer science, Proficient in languages such as C, Python, HTML, and CSS, and with hands-on experience in Swift and Kotlin, I am driven by the boundless potential that technology offers.
+Passionate about the vast realm of computer science, Proficient in languages such as C/C++, Python, HTML CSS, JavaScript, TypeScript and with hands-on experience in Swift and Kotlin, I am driven by the boundless potential that technology offers.
 
 My academic journey has provided me with a robust foundation in programming concepts, data structures, and algorithms. Armed with expertise in C++ and Python, I relish the challenge of deciphering intricate coding puzzles and devising elegant solutions. From architecting algorithms to developing applications, I thrive on leveraging my problem-solving acumen to create impactful and innovative solutions.
 
-In the realm of web development, I have honed my skills in HTML, CSS, and frameworks like Tailwind, creating visually appealing and user-friendly interfaces. Additionally, I have hands-on experience with cloud platforms such as AWS, Azure, and Google Cloud, enabling me to design and deploy scalable solutions.
+In the realm of web development, I have honed my skills in HTML, CSS, and frameworks like Djnago, Next.js creating visually appealing and user-friendly interfaces. Additionally, I have hands-on experience with cloud platforms such as AWS, Azure, and Google Cloud, enabling me to design and deploy scalable solutions.
 
 Eager to contribute to the ever-evolving landscape of computer science, I am open to exciting opportunities that allow me to collaborate with talented teams, tackle challenging projects, and further enhance my technical expertise.
 
