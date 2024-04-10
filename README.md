@@ -80,7 +80,7 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
 <hr>
 <!-- Skill Set  -->
 <div align="center">
-    <h1>Skill Set ⚡️</h1>
+    <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
     <h4>These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions. </h4>
 </div>
 
