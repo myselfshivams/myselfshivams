@@ -93,8 +93,10 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
   </a> 
-  <code><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a></code>&nbsp;&nbsp;
-<code><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </div></code>&nbsp;
+  <code><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a></code>&nbsp;&nbsp; 
+<code><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </code>&nbsp;
+  <code><a href="#" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" title="Go" alt="Go"  height="40"/></a></code>&nbsp;&nbsp;
+</div>
 
 </div>
 
