@@ -257,4 +257,62 @@ About Me = {
 ![snake gif](https://github.com/myselfshivams/myselfshivams/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-334-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-703.3%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 643.4 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 15 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+🌆 Daytime                107 commits         ████████░░░░░░░░░░░░░░░░░   31.66 % 
+🌃 Evening                183 commits         ██████████████░░░░░░░░░░░   54.14 % 
+🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Tuesday                  39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Thursday                 66 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Friday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Saturday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Sunday                   102 commits         ████████░░░░░░░░░░░░░░░░░   30.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/myselfshivams/myselfshivams/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/04/2024 18:01:55 UTC
 <!--END_SECTION:waka-->
