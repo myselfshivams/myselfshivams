@@ -2,13 +2,10 @@
 <!----- Shivam's Icon ------------------------------------------------------------------------------------------------------------------------------>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
-
   <div>
     <div align="center">
         <a href="https://github.com/myselshivams"><img src="myselfshivams.png" height="400" /></a>
     </div>
-
-
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <!----- Read-me Typing ------------------------------------------------------------------------------------------------------------------------------>
@@ -16,10 +13,6 @@
   <div align="center">
         <a href="https://github.com/myselfshivams"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
     </div>
-
-
-
-
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <!----- Intro -------------------------------------------------------------------------------------------------------------------------------------->
@@ -68,7 +61,6 @@
 
 <div align="centre">
 
-
 Passionate about the vast realm of computer science, Proficient in languages such as C/C++, Python, HTML CSS, JavaScript, TypeScript and with hands-on experience in Swift and Kotlin, I am driven by the boundless potential that technology offers.
 
 My academic journey has provided me with a robust foundation in programming concepts, data structures, and algorithms. Armed with expertise in C++ and Python, I relish the challenge of deciphering intricate coding puzzles and devising elegant solutions. From architecting algorithms to developing applications, I thrive on leveraging my problem-solving acumen to create impactful and innovative solutions.
@@ -83,7 +75,6 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
     <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
     <h4>These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions. </h4>
 </div>
-
 
 <!-- Skill Set  (Programming Languages)  -->
 <div align="center">
@@ -110,7 +101,6 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
 </div>
 <br>
 
-
 <!-- Skill Set (App Development)  -->
 <div align="center">
     <h3><b>App Development </b></h3>
@@ -121,7 +111,7 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
 </div>
     <br>
   
-    
+
 
 <!-- Skill Set (L&A)  -->
 <div align="center">
@@ -154,7 +144,6 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
 </div>
 <br>
 
-
 <!-- Skill Set (Tools)  -->
 <div align="center">
     <h3><b>Tools</b></h3>
@@ -165,10 +154,6 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
     <code><a href="#" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-illustrator-cs6-logo-png-transparent.png" title="Adobe illustrator" alt="illustrator" width="40" height="40"/></a></code>&nbsp;
 </div>
 <br>
-
-
-
-
 
 <div align="center">
     <h3><b>Operating Systems</b></h3>
@@ -185,7 +170,6 @@ Eager to contribute to the ever-evolving landscape of computer science, I am ope
 
 <!-- About me  -->
 
-
 ```py
 About Me = {
 "I find joy in crafting elegant solutions through the art of coding.",
@@ -195,12 +179,8 @@ About Me = {
 "Together, let's push the boundaries of what's possible and shape a future powered by code. ✨"
 }
 ```
+
 <hr>
-
-
-
-
-
 
 <p align="center">
   <a href="https://github.com/myselfshivams">
@@ -218,9 +198,6 @@ About Me = {
 <a> 
     <a href="https://github.com/myselfshivams"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=myselfshivams&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 
-
-  
-
   <hr><div align="center">
   <a href="https://github.com/myselfshivams"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=myselfshivams&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br>
@@ -231,7 +208,6 @@ About Me = {
 <!--- Shivam's Activity Graph ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-
 <br>
 <hr>
 
@@ -239,78 +215,21 @@ About Me = {
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--- Shivam's WAKA TIME STATS ----------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!--START_SECTION:waka-->
 
 
-
-<div align="right">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myselfshivams&theme=darkhub&column=7&margin-w=10&margin-h=10&title=Commit,Issues,Repositories,PullRequest,Followers" alt="myselfshivams" /></a> </p>
-<hr>
-
-  
+<!--END_SECTION:waka-->
 
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--- Shivam's Snake Animation Contribution Graph ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
- 
+
 ![snake gif](https://github.com/myselfshivams/myselfshivams/blob/output/github-contribution-grid-snake-dark.svg)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-334-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-703.3%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 643.4 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 15 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-🌆 Daytime                107 commits         ████████░░░░░░░░░░░░░░░░░   31.66 % 
-🌃 Evening                183 commits         ██████████████░░░░░░░░░░░   54.14 % 
-🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Tuesday                  39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Wednesday                22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Thursday                 66 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Friday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Saturday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Sunday                   102 commits         ████████░░░░░░░░░░░░░░░░░   30.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
-
-
- Last Updated on 14/04/2024 18:01:55 UTC
-<!--END_SECTION:waka-->
