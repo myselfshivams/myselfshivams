@@ -246,6 +246,9 @@ About Me = {
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myselfshivams&theme=darkhub&column=7&margin-w=10&margin-h=10&title=Commit,Issues,Repositories,PullRequest,Followers" alt="myselfshivams" /></a> </p>
 <hr>
 
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
