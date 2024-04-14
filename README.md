@@ -220,7 +220,9 @@ About Me = {
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-488-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%209%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-542-blue)
 
 **🐱 My GitHub Data** 
 
@@ -259,16 +261,24 @@ Sunday                   108 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 29 mins             ███████████░░░░░░░░░░░░░░   42.57 % 
+Text                     18 mins             ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+JavaScript               16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  39 mins             ██████████████░░░░░░░░░░░   57.43 % 
+Obsidian                 29 mins             ███████████░░░░░░░░░░░░░░   42.57 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          29 mins             ███████████░░░░░░░░░░░░░░   42.57 % 
+MediciveRXp              19 mins             ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+myfirstapp               16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+studex                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -288,7 +298,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/myselfshivams/myselfshivams/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 19:57:53 UTC
+ Last Updated on 14/04/2024 22:58:29 UTC
 <!--END_SECTION:waka-->
 
 
