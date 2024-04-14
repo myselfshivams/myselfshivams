@@ -241,12 +241,6 @@ About Me = {
 
 
 
-<div align="center"><h3><b>GitHub Stats</b></h3></div>
-<div align="center">
-
-![Shivam's Stats](https://github-readme-stats.vercel.app/api?username=myselfshivams&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
-<hr>
 
 <div align="right">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myselfshivams&theme=darkhub&column=7&margin-w=10&margin-h=10&title=Commit,Issues,Repositories,PullRequest,Followers" alt="myselfshivams" /></a> </p>
