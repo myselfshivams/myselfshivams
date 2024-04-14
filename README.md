@@ -247,8 +247,7 @@ About Me = {
 <hr>
 
   
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -257,3 +256,5 @@ About Me = {
  
 ![snake gif](https://github.com/myselfshivams/myselfshivams/blob/output/github-contribution-grid-snake-dark.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
