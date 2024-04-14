@@ -309,9 +309,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/myselfshivams/myselfshivams/main/assets/bar_graph.png)
 
 
  Last Updated on 14/04/2024 18:01:55 UTC
