@@ -1,4 +1,4 @@
-name: generate snake animation
+name: generate animation
 
 on:
    # run automatically every 12 hours
