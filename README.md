@@ -202,14 +202,13 @@ About Me = {
   <a href="https://github.com/myselfshivams"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=myselfshivams&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br>
 </a>
-<hr>
+
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--- Shivam's Activity Graph ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<br>
-<hr>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=myselfshivams&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
@@ -309,4 +308,4 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 ![snake gif](https://github.com/myselfshivams/myselfshivams/blob/output/github-contribution-grid-snake-dark.svg)
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
