@@ -58,17 +58,20 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 </div>
-
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- About me ------------------------------------------------------------------------------------------------------------------------------>
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<hr>
 <div align="centre">
-
-Passionate about the vast realm of computer science, Proficient in languages such as C/C++, Python, HTML CSS, JavaScript, TypeScript and with hands-on experience in Swift and Kotlin, I am driven by the boundless potential that technology offers.
-
-My academic journey has provided me with a robust foundation in programming concepts, data structures, and algorithms. Armed with expertise in C++ and Python, I relish the challenge of deciphering intricate coding puzzles and devising elegant solutions. From architecting algorithms to developing applications, I thrive on leveraging my problem-solving acumen to create impactful and innovative solutions.
-
-In the realm of web development, I have honed my skills in HTML, CSS, and frameworks like Djnago, Next.js creating visually appealing and user-friendly interfaces. Additionally, I have hands-on experience with cloud platforms such as AWS, Azure, and Google Cloud, enabling me to design and deploy scalable solutions.
-
-Eager to contribute to the ever-evolving landscape of computer science, I am open to exciting opportunities that allow me to collaborate with talented teams, tackle challenging projects, and further enhance my technical expertise.
-
+        <ul>
+            <li>🔭 <b>I’m currently working on</b>: Next.js, Django, SwiftUI</li>
+            <li>🌱 <b>I’m currently learning</b>: Golang, Dart, Docker, AWS S3, Framer Motion.</li>
+            <li>💬 <b>Ask me about</b>: Web Development, iOS Developments, App Development and Competetive Programming.</li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+            <li>🤔 <b>I’m currently open for</b>: pen Source Projects</li>
+            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://itshivam.me">My Portfolio</a>.</li>
+        </ul>
+       
 <hr>
 <!-- Skill Set  -->
 <div align="center">
@@ -208,7 +211,7 @@ About Me = {
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
   <hr><div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
     
 ### Technology joke 
 
