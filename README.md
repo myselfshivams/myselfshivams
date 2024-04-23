@@ -202,10 +202,19 @@ About Me = {
   <a href="https://github.com/myselfshivams"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=myselfshivams&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br>
 </a>
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--- Shivam's Quotes ----------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
   <hr><div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+    
 ### Technology joke 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<hr>
 
 ### Developers' Quotes
 
