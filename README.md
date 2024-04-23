@@ -184,6 +184,10 @@ About Me = {
 ```
 
 <hr>
+<div align="center">
+
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
 
 <p align="center">
   <a href="https://github.com/myselfshivams">
@@ -213,13 +217,13 @@ About Me = {
   <hr><div align="center">
 
     
-### Technology joke 
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Technology Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <hr>
 
-### Developers' Quotes
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Developers' Quotes
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
@@ -237,7 +241,7 @@ About Me = {
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--- Shivam's WAKA TIME STATS ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> WakaTime Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%206%20mins-blue)
 
