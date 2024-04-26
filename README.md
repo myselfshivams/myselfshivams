@@ -246,8 +246,8 @@ About Me = {
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
 
-<details>
-  <summary>Expand</summary> 
+
+
 
 | Overview | Follow up Issues & PRs |
 |:--------:|:-------------------------:|
@@ -259,7 +259,7 @@ About Me = {
 | Discussions | Reactions |
 | ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
 
-</details>                     
+                  
 <br>
 
 
@@ -270,6 +270,10 @@ About Me = {
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> WakaTime Stats
 
+<details>
+  <summary>Expand</summary> 
+
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2053%20mins-blue)
 
@@ -356,7 +360,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
  Last Updated on 25/04/2024 18:38:59 UTC
 <!--END_SECTION:waka-->
 
-
+</details>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--- Shivam's Snake Animation Contribution Graph ----------------------------------------------------------------------------------------------------------------------------->
