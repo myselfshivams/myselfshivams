@@ -305,15 +305,13 @@ About Me = {
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-662-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-671-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 656.8 kB Used in GitHub's Storage 
- > 
-> 🏆 224 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -386,7 +384,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/myselfshivams/myselfshivams/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2024 16:38:01 UTC
+ Last Updated on 27/04/2024 18:39:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
