@@ -64,9 +64,9 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x144</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x69</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x72</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x58</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x56</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x58</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x45</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x39</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x30</span></div>
