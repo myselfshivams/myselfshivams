@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="28.81369426751592 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">275</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="28.708917197452227 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">274</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3140</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="25.721818181818183 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">129</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="25.522424242424243 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">128</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1650</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -64,9 +64,9 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x144</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x72</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x71</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x58</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x58</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x57</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x45</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x40</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x30</span></div>
@@ -111,7 +111,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Length of Anagram Concatenation</div>
+                            <div class="title">Valid Word</div>
                             <div class="date">5 May 2024</div>
                         </div>
                     </div>
@@ -120,7 +120,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Valid Word</div>
+                            <div class="title">Delete Node in a Linked List</div>
                             <div class="date">5 May 2024</div>
                         </div>
                     </div>
