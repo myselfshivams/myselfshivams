@@ -103,8 +103,8 @@
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
   </a> 
-  <code><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a></code>&nbsp;&nbsp; 
-<code><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </code>&nbsp;
+  <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a></code>&nbsp;&nbsp; 
+<code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </code>&nbsp;
   <code><a href="#" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" title="Go" alt="Go"  height="40"/></a></code>&nbsp;&nbsp;
 </div>
 
@@ -123,10 +123,10 @@
 <!-- Skill Set (App Development)  -->
 <div align="center">
     <h3><b>App Development </b></h3>
-    <code><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></code>&nbsp;
-    <code><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></code>&nbsp;
-    <code><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a></code>&nbsp;
-    <code><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></code>&nbsp;
 </div>
     <br>
   
@@ -137,19 +137,19 @@
     <h3><b>Libraries and Frameworks</b></h3>
     <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" title="NodeJS" alt="nodejs" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="BootStrap" alt="bootstrap"  height="40"/></a></code>&nbsp;
-    <code><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></code>&nbsp;
-    <code><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="BootStrap" alt="bootstrap"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" title="Django" alt="django" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></code>
-     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" title="Flask" alt="Flask" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></code>
+     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" title="Selenium" alt="Selenium" height="40"/></a></code>&nbsp;
 </div>
 <br>
 
 <!-- Skill Set (Database)  -->
 <div align="center">
     <h3><b>Databases</b></h3>
-    <code><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://www.dbi-services.com/wp-content/uploads/2022/01/Logo-Mongodb-carre.png" title="MongoDB" alt="mongodb"  height="40"/></a></code>&nbsp;
 </div>
 <br>
@@ -158,8 +158,8 @@
 <div align="center">
     <h3><b>Cloud</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
-    <code><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a></code>&nbsp;
-      <code><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></code>&nbsp;&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a></code>&nbsp;
+      <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></code>&nbsp;&nbsp;
 </div>
 <br>
 
@@ -178,8 +178,8 @@
     <h3><b>Operating Systems</b></h3>
     <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg?style=white" alt="MacOS" width="40" height="40"/> </a></code>&nbsp;
-    <code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg?style=white" alt="MacOS" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></code>&nbsp;
     <br><br>
 </div>
     <br><br>
