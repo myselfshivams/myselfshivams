@@ -132,6 +132,7 @@
       <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></code>
       <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" title="NextJS" alt="nextjs" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Jquery-icon.svg" title="jquery" alt="jquery"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="BootStrap" alt="bootstrap"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" title="Django" alt="django" width="40" height="40"/></a></code>&nbsp;
      <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" title="Selenium" alt="Selenium" height="40"/></a></code>&nbsp;
@@ -152,6 +153,7 @@
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a></code>&nbsp;
       <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></code>&nbsp;&nbsp;
+        <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Cib-netlify_%28CoreUI_Icons_v1.0.0%29.svg" alt="Netlify" width="40" height="40"/> </a></code>&nbsp;&nbsp;
 </div>
 <br>
 
