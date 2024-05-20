@@ -144,6 +144,7 @@
     <h3><b>Databases</b></h3>
     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://www.dbi-services.com/wp-content/uploads/2022/01/Logo-Mongodb-carre.png" title="MongoDB" alt="mongodb"  height="40"/></a></code>&nbsp;
+      <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL"  height="40"/></a></code>&nbsp;
 </div>
 <br>
 
