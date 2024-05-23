@@ -122,8 +122,6 @@
 </div>
     <br>
   
-
-
 <!-- Skill Set (L&F)  -->
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
