@@ -23,7 +23,6 @@
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/itshivam/">Shivam</a></b>
         </samp>
-  
 </h3>
 
 <!-- Search  -->
