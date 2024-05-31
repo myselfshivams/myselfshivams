@@ -94,7 +94,6 @@
 <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" title="kotlin" width="40" height="40"/> </a> </code>&nbsp;
   <code><a href="#" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" title="Go" alt="Go"  height="40"/></a></code>&nbsp;&nbsp;
 </div>
-
 </div>
 
 <!-- Skill Set (Frontend)  -->
