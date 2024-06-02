@@ -146,7 +146,7 @@
     <h3><b>Cloud</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="google cloud" alt="google cloud" width="40" height="40"/> </a></code>&nbsp;
-      <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></code>&nbsp;&nbsp;
+      <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="azure" width="40" height="40"/> </a></code>&nbsp;&nbsp;
         <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Cib-netlify_%28CoreUI_Icons_v1.0.0%29.svg" alt="Netlify" width="40" height="40"/> </a></code>&nbsp;&nbsp;
   <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/logo-vercel-icon-512x444-szlkql7g.png" title="Vercel" alt="vercel" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" title="Heroku" alt="heroku" width="40" height="40"/></a></code>&nbsp;
