@@ -71,8 +71,7 @@
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: pen Source Projects</li>
             <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://itshivam.me">My Portfolio</a>.</li>
-        </ul>
-       
+        </ul>  
 <hr>
 <!-- Skill Set  -->
 <div align="center">
