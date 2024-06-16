@@ -267,17 +267,21 @@ About Me = {
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--- Shivam's WAKA TIME STATS ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> WakaTime Stats
 
+
 <details>
-  <summary>Expand</summary> 
+ <h1><summary>Expand</summary> </h1> 
 
   
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
 **🐱 My GitHub Data** 
@@ -308,6 +312,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
  Last Updated on 15/06/2024 18:40:30 UTC
+ 
 <!--END_SECTION:waka-->
 
 </details>
