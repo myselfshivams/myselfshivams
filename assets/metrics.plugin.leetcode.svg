@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.610849796174349 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">35</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.7140169332079025 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">36</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3189</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.928358208955224 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">20</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.124776119402985 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">21</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1675</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,8 +63,8 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x26</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x13</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x27</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x14</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x11</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x9</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x9</span></div>
