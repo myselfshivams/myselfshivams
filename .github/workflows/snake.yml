@@ -33,10 +33,10 @@ jobs:
       - name: Commit and push changes
         run: |
           git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
-          git commit -m "Update contribution grid snake"
+          git commit -m "Update contribution grid snake" --allow-empty
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
