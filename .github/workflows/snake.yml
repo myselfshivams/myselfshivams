@@ -1,27 +1,22 @@
 name: generate-snake-game
 
 on:
-  # run automatically every 12 hours
   schedule:
-    - cron: "0 */6 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the master branch
+    - cron: "0 */6 * * *"  # Run automatically every 6 hours
+  workflow_dispatch:  # Allows manual trigger
   push:
     branches:
-    - main
-    
-  
+      - main  # Run on every push to the main branch
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3.2.0
         with:
@@ -29,8 +24,20 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "myselfshivams"
+          git config --global user.email "30shivam09@gmail.com"
+
+      - name: Commit and push changes
+        run: |
+          git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+          git commit -m "Update contribution grid snake"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
+
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
