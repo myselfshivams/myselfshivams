@@ -12,7 +12,7 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <!----- Shivam's Profile Bar ----------------------------------------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://itshivam.tech" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=myselfshivams&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
@@ -49,13 +49,19 @@
 <div>
 
   <h3 align="center">Relentless debugger 🔧📖 Perpetual evolver, questing for pixel-perfect perfection!📚 💻</h3>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- <hr>
+
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Footer Bar  --------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+ <p align="center"><a href="https://github.com/myselfshivams"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+ 
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!----- Visitor Badge + Links ------------------------------------------------------------------------------------------------------------------------------>
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<hr>
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmyselfshivams%2Fmyselfshiavms&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
     <br><br>
