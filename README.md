@@ -22,7 +22,7 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
  
   <div align="center">
-        <a href="https://github.com/myselfshivams"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
+        <a href="https://github.com/myselfshivams"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
     </div>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -331,11 +331,11 @@
 
 <!-- About me  -->
 
-```py
+```js
 About Me = {
 "I find joy in crafting elegant solutions through the art of coding.",
 "Proficient in languages like Python and C++, I navigate the digital realm with expertise.",
-"My expertise extends to the intricate web technologies of HTML, CSS, and JS, where I blend creativity and functionality seamlessly.",
+"My expertise extends to the intricate web technologies of NextJS, Golang, and DevOps, where I blend creativity and functionality seamlessly.",
 "I am more than a student; I am a creator, a problem solver, and a Developer."
 "Together, let's push the boundaries of what's possible and shape a future powered by code. ✨"
 }
