@@ -147,7 +147,7 @@
         <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" />
       <br>HTML
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="40" height="40" />
       <br>CSS
     </td>
     <td align="center" width="96"> 
@@ -181,7 +181,7 @@
   </tr>
  <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" />
       <br>Github
     </td>
         <td align="center" width="96">
