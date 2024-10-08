@@ -63,13 +63,13 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x450</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x452</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x207</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x160</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x161</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x151</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x125</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x126</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x113</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x93</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x94</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
