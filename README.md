@@ -223,7 +223,6 @@
 
 
 
-
 <!-- Skill Set  (Programming Languages)  -->
 <div align="center">
     <h3><b>Programming Languages</b></h3>
@@ -344,8 +343,9 @@ About Me = {
 <hr>
 <div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
 
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
+<details>
 <p align="center">
   <a href="https://github.com/myselfshivams">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfshivams&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
@@ -403,7 +403,7 @@ About Me = {
 
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
-
+</details>
 
 
 
@@ -420,6 +420,19 @@ About Me = {
                   
 <br>
 
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--- Shivam's Coding Profiles   ----------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+## Coding Profiles📈
+<details>
+<span>
+<a href="https://codeforces.com/profile/">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=codeforces&theme=github_dark&force_username=true&border_color=404040" alt="Shivam Codeforces Stats"/>
+</a>
+<a href="https://leetcode.com/u/itshivam/">
+<img height="316" src="https://leetcard.jacoblin.cool/itshivam?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Shivam Leetcode Stats"/>
+</a>
+</details>
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--- Shivam's GSSOC Badges   ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
