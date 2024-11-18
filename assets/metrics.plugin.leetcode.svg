@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="91.80256104824299 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">937</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="91.90053603335319 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">938</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3358</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="109.66666666666666 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">279</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="110.05973715651135 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">280</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/837</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x479</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x480</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x222</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x169</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x159</span></div>
