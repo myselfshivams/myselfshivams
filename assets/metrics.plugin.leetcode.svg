@@ -66,7 +66,7 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x486</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x223</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x172</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x159</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x160</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x129</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x121</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x99</span></div>
